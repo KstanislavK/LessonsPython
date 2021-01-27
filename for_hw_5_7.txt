@@ -1,0 +1,6 @@
+Raiza ООО 1000 200
+Petrov ИП 200 300
+TechTon ПАО 500 35
+Solargard ООО 200 100
+MirPlenok ЗАО 150 200
+RSK ПАО 505 400
