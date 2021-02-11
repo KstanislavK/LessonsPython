@@ -1,0 +1,3 @@
+Name Score
+stas 10
+sasha 15
